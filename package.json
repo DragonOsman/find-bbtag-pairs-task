@@ -1,0 +1,35 @@
+{
+  "name": "find_bbtag_pairs_task",
+  "version": "1.0.0",
+  "description": "Javascript.info task \"Find BBtag Pairs\" Solution",
+  "main": "scripts/script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/find-bbtag-pairs-task.git"
+  },
+  "keywords": [
+    "bbtag-pairs",
+    "find-bbtag-pairs",
+    "javascript.info",
+    "javascript",
+    "task-solution",
+    "javascript.info-task-solution",
+    "regex",
+    "alternation"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/find-bbtag-pairs-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/find-bbtag-pairs-task#readme"
+}
